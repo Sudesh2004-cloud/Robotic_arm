@@ -1,8 +1,4 @@
 # Robotic_arm
-Here is an updated `README.md` tailored specifically for your **Pick and Place Robotic Arm** Arduino-based college project:
-
----
-
 # 🤖 Pick and Place Robotic Arm – College Project
 
 ## 📌 Project Overview
