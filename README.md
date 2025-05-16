@@ -68,6 +68,6 @@ This arm was developed as part of a final-year Mechanical Engineering project at
 
 ## 👨‍🔧 Authors
 
-* **Sudesh Vijay Tonpe**
+**Sudesh Vijay Tonpe and Team**
 ---
 
